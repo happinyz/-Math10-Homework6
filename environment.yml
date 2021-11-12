@@ -3,5 +3,4 @@ dependencies:
   - numpy
   - pandas
   - python
-  - sklearn.datasets
-  - sklearn.cluster
+  - sklearn
