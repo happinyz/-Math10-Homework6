@@ -3,5 +3,5 @@ dependencies:
   - numpy
   - pandas
   - python
-  - sklearn
+  - scikit-learn
   - altair
