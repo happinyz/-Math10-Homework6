@@ -3,5 +3,5 @@ dependencies:
   - numpy
   - pandas
   - python
-  - altair
-  - streamlit
+  - sklearn.datasets
+  - sklearn.cluster
